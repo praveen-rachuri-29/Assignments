@@ -1,0 +1,19 @@
+.input{
+  padding: 20px;
+  border-radius: 10px;
+}
+.input-text{
+    border: 1px solid hwb(0 12% 83%);
+    border-radius: 8px;
+    padding: 26px;
+    width: 360px;
+    height: 200px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+   
+}
+.titile{
+   color: rgb(85, 117, 57);
+}
+.button{
+    background-color: green;
+}
